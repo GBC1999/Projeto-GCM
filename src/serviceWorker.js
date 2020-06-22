@@ -23,8 +23,8 @@ let arquivos = [
   "src/sw/registra.js",
   "public/brazao192.png",
   "public/brazao512.png",
-  "public/favicon.ico",
-  "public/manifest.json"
+  "/favicon.ico",
+  "/manifest.json"
 
 ]
 
